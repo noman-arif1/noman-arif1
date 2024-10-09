@@ -12,8 +12,8 @@ I have over 6 years of experience in software engineering, specializing in .NET 
 - **Agile/Scrum:** Experienced in managing the full development lifecycle using agile methodologies
 
 ### ☁️ **Cloud Certifications**
-![AZ-900](https://img.shields.io/badge/AZ--900-Microsoft%20Azure%20Fundamentals-blue)
-![AZ-204](https://img.shields.io/badge/AZ--204-Microsoft%20Azure%20Developer%20Associate-blue)
+[![AZ-900](https://img.shields.io/badge/AZ--900-Microsoft%20Azure%20Fundamentals-blue)](https://learn.microsoft.com/api/credentials/share/en-us/noman-arif/C2AE4474EEE82B25?sharingId&wt.mc_id=studentamb_427604)
+[![AZ-204](https://img.shields.io/badge/AZ--204-Microsoft%20Azure%20Developer%20Associate-blue)](https://learn.microsoft.com/api/credentials/share/en-us/noman-arif/7C35D72B3B2AF525?sharingId&wt.mc_id=studentamb_427604)
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/nomanarif124/)
